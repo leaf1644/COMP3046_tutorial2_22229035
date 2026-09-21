@@ -1,0 +1,8 @@
+*.stl
+*.gcode
+*.3mf
+*.idea
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
